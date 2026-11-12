@@ -1,3 +1,0 @@
-[build]
-  command = "tar -xzf fashionos-source.tar.gz && npm install && npm run build"
-  publish = "dist"
