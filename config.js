@@ -4,8 +4,8 @@ window.FASHIONOS_CONFIG = {
   // Supabase project that stores waitlist sign-ups. Both values are public by design:
   // the table only accepts inserts and nobody can read it with this key.
   // Find them in Supabase → Project Settings → API. Leave empty for preview mode.
-  supabaseUrl: "",
-  supabaseKey: "",
+  supabaseUrl: "https://phahbvdoycgpfaufeyvz.supabase.co",
+  supabaseKey: "sb_publishable_uJcTvyKA2sw4-EVHaE8v4A_Lw6e9EOj",
 
   // Spam protection (recommended once live). Needs BOTH values. See README.
   turnstileSiteKey: "",
@@ -17,8 +17,8 @@ window.FASHIONOS_CONFIG = {
   clarityId: "",           // Microsoft Clarity project id
 
   // Contact + social links. Empty values are hidden on the site.
-  contactEmail: "",
-  instagramUrl: "",
-  linkedinUrl: "",
+  contactEmail: "unashamedinitiative@gmail.com",
+  instagramUrl: "sb_publishable_uJcTvyKA2sw4-EVHaE8v4A_Lw6e9EOj",
+  linkedinUrl: "https://www.linkedin.com/in/rebecca-durojaye-44b204226?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   xUrl: ""
 };
