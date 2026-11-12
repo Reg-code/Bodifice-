@@ -18,7 +18,7 @@ window.FASHIONOS_CONFIG = {
 
   // Contact + social links. Empty values are hidden on the site.
   contactEmail: "unashamedinitiative@gmail.com",
-  instagramUrl: "https://www.instagram.com/dubrenexusfashion?exln=MTB5MDhpc2dvbWVqdA==",
+  instagramUrl: "https://www.instagram.com/fashionos.ai?cplk=MWNqNzh2MHZzZDBmYg==",
   linkedinUrl: "https://www.linkedin.com/in/rebecca-durojaye",
   xUrl: ""
 };
